@@ -1,4 +1,4 @@
-# Netflix 구독형 멤버십 프로젝트 Spring Security
+# Spring Security 구독형 멤버십 프로젝트
 
 ## 개요
 
