@@ -62,8 +62,6 @@ root
 
 - 아래 링크로 접근하여 API Key 를 받습니다.
     - https://developer.themoviedb.org/reference/intro/getting-started
-- 회원가입을 하고 사이트에서 애플리케이션 등록을 합니다.
-    - TIP. 설명을 좀 길게 적어야 에러가 발생하지 않습니다.
 
 ## ERD (Entity-Relation Diagram)
 
